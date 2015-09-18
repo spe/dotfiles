@@ -95,7 +95,9 @@ Plugin 'nathanaelkane/vim-indent-guides'
 
 Plugin 'mbbill/undotree'
 
-"Bundle 'vim-multiple-cursors'
+Plugin 'vim-multiple-cursors'
+
+Plugin 'vim-scripts/Conque-GDB'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
